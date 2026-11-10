@@ -9,7 +9,6 @@
     "url": "https://tami.ai"
   },
   "homepage": "https://tami.ai/mcp/",
-  "privacyPolicyUrl": "https://tami.ai/privacy-policy/",
   "repository": "https://github.com/tamiai/tami-claude-plugin",
   "license": "MIT",
   "keywords": ["sales", "prospecting", "b2b", "lead-generation", "company-data", "enrichment", "outreach"]
