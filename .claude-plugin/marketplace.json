@@ -1,0 +1,18 @@
+{
+  "name": "tami",
+  "owner": {
+    "name": "TAMI",
+    "email": "support@tami.ai",
+    "url": "https://tami.ai"
+  },
+  "metadata": {
+    "description": "TAMI's plugins for Claude: B2B prospecting, enrichment and outreach through TAMI's MCP server."
+  },
+  "plugins": [
+    {
+      "name": "tami-ai",
+      "source": "./",
+      "description": "B2B prospecting in Claude with TAMI: search companies and contacts by criteria, match lookalike companies, enrich company and contact records, detect payment and shipping providers, read company news and professional-network activity, and draft outreach."
+    }
+  ]
+}
