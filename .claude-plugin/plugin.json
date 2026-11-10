@@ -1,0 +1,15 @@
+{
+  "name": "tami-ai",
+  "displayName": "TAMI",
+  "version": "1.0.0",
+  "description": "B2B prospecting in Claude with TAMI: search companies and contacts by criteria, match lookalike companies, enrich company and contact records, detect payment and shipping providers, read company news and professional-network activity, and draft outreach.",
+  "author": {
+    "name": "TAMI",
+    "email": "support@tami.ai",
+    "url": "https://tami.ai"
+  },
+  "homepage": "https://tami.ai/mcp/",
+  "repository": "https://github.com/tamiai/tami-claude-plugin",
+  "license": "MIT",
+  "keywords": ["sales", "prospecting", "b2b", "lead-generation", "company-data", "enrichment", "outreach"]
+}
